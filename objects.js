@@ -1,2 +1,1 @@
-var playlist = new Object(artistNames: 'Song Titles')
-
+var playlist = {artistNames: 'Song Titles'};
