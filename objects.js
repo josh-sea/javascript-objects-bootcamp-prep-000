@@ -1,6 +1,1 @@
-var playlist = {artistName: "songTitle"};
-function updatePlayList(playList, artistName, songTitle) {
-  playList.artistName=`${songTitle}`
-  return playList
-}
-
+http://robbwolf.com/wp-content/uploads/2010/12/The-Slow-Carb-Cookbook.pdf
